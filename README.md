@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🇺🇦 I am 14 years old, I live in Ukraine.
 
-👨‍💻 I do machine learning and so on
+👨‍💻 I do artificial intelligence
 
 #
 ### 🛠️ My favorite language
