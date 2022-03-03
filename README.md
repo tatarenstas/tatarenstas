@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 ### 🙋‍♂️ About me
 
-🇺🇦 I am 14 years old, I live in Ukraine.
+🇺🇦 I live in Ukraine.
 
 👨‍💻 I do artificial intelligence
 
