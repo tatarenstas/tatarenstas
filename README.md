@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🇺🇦 I live in Ukraine.
 
-👨‍💻 I do artificial intelligence
+👨‍💻 I do machine learning.
 
 #
 ### 🛠️ My favorite language
