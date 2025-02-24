@@ -17,9 +17,9 @@ Here are some ideas to get you started:
  
 ### 🙋‍♂️ About me
 
-🇺🇦 I live in Ukraine.
+🇺🇦 I live in Ukraine
 
-👨‍💻 I do machine learning.
+👨‍💻 I do machine learning
 
 #
 ### 🛠️ My favorite language
